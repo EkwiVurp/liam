@@ -50,6 +50,8 @@
 	- Signal sensitivity factor in Definition.h				(Planned)
 	- Slower mowing if cutter motor is using much current	(Planned)
 	---------------------------------------------------------------
+
+ test2
 */
 
 #include <Servo.h>
